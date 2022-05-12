@@ -21,3 +21,5 @@ const formatPhrase = ( phrase ) => {
 }
 
 formatPhrase( personalPhrase );
+
+console.log( 'testeando' );
